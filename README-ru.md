@@ -10,6 +10,8 @@ IPsec VPN шифрует сетевой трафик, поэтому никто 
 
 Мы будем использовать [Libreswan](https://libreswan.org/) в качестве сервера IPsec и [xl2tpd](https://github.com/xelerance/xl2tpd) в качестве поставщика L2TP.
 
+**Также доступно:** [LiteLLM AI-шлюз на Docker](https://github.com/hwdsl2/docker-litellm/blob/main/README-ru.md)
+
 **[&raquo; :book: Книга: Privacy Tools in the Age of AI](docs/vpn-book.md) &nbsp;[Build Your Own VPN Server](docs/vpn-book.md)**
 
 ## Быстрый старт

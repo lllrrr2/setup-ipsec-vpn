@@ -10,6 +10,8 @@ An IPsec VPN encrypts your network traffic, so that nobody between you and the V
 
 We will use [Libreswan](https://libreswan.org/) as the IPsec server, and [xl2tpd](https://github.com/xelerance/xl2tpd) as the L2TP provider.
 
+**Also available:** [LiteLLM AI Gateway on Docker](https://github.com/hwdsl2/docker-litellm)
+
 **[&raquo; :book: Book: Privacy Tools in the Age of AI](docs/vpn-book.md) &nbsp;[Build Your Own VPN Server](docs/vpn-book.md)**
 
 ## Quick start
